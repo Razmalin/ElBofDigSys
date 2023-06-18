@@ -1,6 +1,8 @@
 ## ElBofDigSys
-## The element base of digital systems (Элементная база цифровых систем)
+
 ## Лабораторные и практические работы по ЭлБЦифрС, 6 семестр СПбГЭТУ "ЛЭТИ", 2023.
+
+## The element base of digital systems (Элементная база цифровых систем)
 
 ## Директория `Guideline`
 
